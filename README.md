@@ -21,3 +21,5 @@
 -----
 ### リンク
 -[静岡大学](https://github.com/oo-ka/hello_world/edit/main/README.md)
+
+サーバーで編集

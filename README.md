@@ -16,3 +16,4 @@
 -----
 ### リンク
 -[静岡大学](https://github.com/oo-ka/hello_world/edit/main/README.md)
+New line added by a local environment.
